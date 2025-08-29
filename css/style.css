@@ -1371,7 +1371,7 @@ a.back-to-home-link:hover span{
     top: 0;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: url(/assets/images/membership-IEIA-blue.png);
+    background: url(../assets/images/membership-IEIA-blue.png);
     width: calc(100% - 2rem);
     text-align: center;
     color: var(--white);
@@ -1401,139 +1401,6 @@ a.back-to-home-link:hover span{
     content: "Young Membership";
 }
 
-/*  
-zenakithini
-nivu zenakithira
-nimma manai ithena
-avuthu nina nama manai
-sonthatha
-alla batagi mani
-nimma managi patagi estu
-ontha nimisha
-iga pariththini
-bere enanthru
-sakku
-beha baa
-ulage baa
-bere enu illa
-nimma kasta thanthe
-kenge sarige maththira
-jagirathaya kiru
-illave illa
-namaskara heli
-nanage onthu mane pekku
-one bhk saka illa 2 bhk bekka
-2 bhk mane bekku
-thikaluge haththu sava patake
-aythu sir advance eththu
-muvath savara advance
-mane nodu pagutha
-panni sir throsthuni
-mane thumpa sanagithe naale advance kotuthini
-ayththu sir
-estu thura illintha
-nanu parapagutha
-naanu yaru antha koththa
-nivu english maththatuthira
-avanu thumpa thinnuthane
-nanage onthu sagaya matuthira
-avanu illi parathane
-naavu matuthivi
-avaluge ista illa
-kelusa aithe nanage amele maththatu
-avanuge ista
-naane kotuthini
-avar hathra ithe 
-sir magestice oru ticket onthe ticket koti
-hanonthu rupai koti
-thagulli
-onthu rupai chinthu illaya
-illa erat rupai
-parava illa koti naanu onthu rupai kotuthini
-magestic panthre solpe 
-sari heluthini
-magestic inu hestu thura ithe
-athu thumpa thura ithe. inu haththu stopugal iruthe
-nivu inu thayaragiluva
-avaru alli iluva
-
-nivu yaaru
-alli yarelam ithare
-nivu ekke thuka thalli thira
-nuvu avaru ithera
-nivu yarukathru kaythira
-nivu eke prathethina latagi pariththi thira
-nivu madhuvuge paruththu thira
-nivu eke aluththuthira
-
-avaru elli
-nivu yavuthakagi kaythithira
-avaru raje alli ithara
-nivu prethe thena alligi eke koguthire
-nivu estu hothigi kotuguthiri
-avaru illi kelusa matuthithara
-avalu nana pakke enu heluthale
-
-
-cinima estu kantage suruvaguthe
-naanu
-avaru
-avalu
-houthu
-illaa
-alli
-illi
-hehe
-goththu
-hesaru
-yakke
-elli
-yavaga
-yaaru
-nama
-nimma
-kodi
-koduthi
-pega
-ega
-nillu
-olage
-horage
-aache
-sempu
-pale hannu
-hiththale hannu
-mavina hannu
-thirakchi
-halasina hannu
-siththa pazha
-sibe hannu
-kalangati hannu
-thalimpe hannu
-nimpe hannu
-ananas
-halu
-mosaru
-thuppa
-akki
-kothi
-tharkari
-motte
-uppu
-sakare
-pili vellai
-kappu karuppu
-nilam - nili
-kempu -red
-pachai - hasiru
-manchal -halaathi
-kesari - orance
-kakki
-kulapi -pink
-onthu
-eradu
-muru
-*/
 
 .btn.registration-btn,
 .btn.registration-btn:hover,
