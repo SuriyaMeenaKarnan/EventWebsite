@@ -1,0 +1,669 @@
+@media screen and (max-width: 1300px){
+    /* #owl-brics,
+    #owl-feedback {
+            right: -42px;
+    } */
+}
+
+@media screen and (max-width: 1200px) {
+    /* header design start */
+    .nav-link-word{
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+    }
+    
+    .nav-link .nav-link-word,
+    .nav-link.nav-link-btn,
+    .nav-item .dropdown-item{
+        font-size: 0.85rem !important;
+    }
+    /* header design end */ 
+    
+    /* brics design start */
+    .brics-content-data{
+        width: 100%;
+    }
+
+    #owl-brics .owl-nav{
+        top: unset;
+        right: unset;
+        bottom: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+        justify-content: center;
+    }
+
+    /* brics design end */
+
+    /* initiative design start */
+    .owl-intiative-card{
+        flex-wrap: wrap;
+    }
+
+    .owl-initiative-content-container,
+    .owl-initiative-img-container{
+        width: 100%;
+        min-width: unset;
+        max-width: unset;
+    }
+
+    /* industry affiliations design start */
+    .sponsor-container{
+        grid-template-columns: auto auto auto auto;
+        margin: 0
+    }
+    /* industry affiliations design end */
+
+    /* footer design start */
+
+    .footer-about-us{
+        width: 335px;
+    }
+
+    /* footer design end */
+}
+
+@media screen and (max-width: 1200px) {
+    .header-section1,
+    .header-section2{
+        padding: 1.063rem 3rem;
+    }
+}
+
+@media screen and (max-width:991px) {
+    /* common design start */
+    .font-36-700{
+        font-size: 2rem !important;
+    }    
+
+    .common-out-container-space {
+        padding: 2.75rem 1rem;
+    }
+
+    h1.common-text-linear{
+        margin-bottom: 1rem;
+    }
+
+    /* common design end */
+
+    /* header design start */
+
+    .header-section1{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .nav-link-word{
+        padding: 0px;
+    }
+
+    .nav-link-btn{
+        margin-top: 0.75rem;
+    }
+
+    .nav-item.dropdown{
+        width: 100%;
+    }
+
+    .nav-item .fa-chevron-down,
+    .nav-item .fa-chevron-right{
+        float: right;
+        margin-right: 10px;
+    }
+
+    #IEIA-nav-list-container{
+        overflow: auto;
+    }
+
+    .about-content-contianer .common-out-container-space{
+        padding-bottom: 0;
+    }
+
+    .contact-link{
+        width: calc(50% - 1rem);
+    }
+
+    .header1-contact{
+        flex-wrap: wrap;
+        row-gap: 0.5rem;
+    } 
+
+    .header-phone{
+        order: 0;
+    }
+
+    .header-email-container{
+        order: 2;
+        margin-top: 0.5rem;
+    } 
+
+    .login{
+        order: 1;
+    }
+
+    .header-social-media-container{
+        order: 3;
+        margin-top: 0.25rem;
+    }  
+
+    .header-dropdown{
+        margin: 0 1rem !important; 
+    }
+    
+    .navbar-nav{
+        align-items: flex-start;
+    }
+    
+    .header-nested-dropdown{
+        margin: 0 1rem !important;
+    }
+
+    .dropdown.dropend .dropdown-item .fa-chevron-down{
+        transform: rotate(-90deg);
+        transition: transform 0.3s linear;
+    }
+
+    .dropdown.dropend .dropdown-item.show .fa-chevron-down{        
+        transform: rotate(0deg);
+    }
+    /* header design end */
+
+    /* Description about us container design start */
+    .desc-us-content-container {
+        margin-left: 1.75rem;
+        width: 60%;
+    }
+    /* Description about us container design end */
+
+    /* celebration video section design start */
+
+    .player{
+        width: 100%;
+    }
+
+    .celebration-video-sec-container{
+        padding: 2.75rem 1rem 0;
+    }
+
+    .celebration-video{
+        width: 100%;
+    }
+
+    /* celebration video section design end */
+
+    /* brics design start */
+
+    #owl-feedback .owl-nav{
+        top: unset;
+        right: unset;
+        /* bottom: -30px; */
+        left: 50%;
+        transform: translateX(-50%);
+        justify-content: center;
+    }
+
+    
+    #owl-brics .owl-nav,
+    #owl-feedback .owl-nav{
+        right: 0;
+    }
+    /* brics design end */
+
+    /* clients have to say design start */
+
+     .feedback-content-data{
+        width: 100%;
+    }
+
+    /* clients have to say design end */
+
+    /* footer design start */
+
+    .footer-about-us{
+        width: 260px;
+    }
+
+    .footer-address-container{
+        row-gap: 0.5rem;
+    }
+    .footer-nav-container, .footer-address-container{
+        row-gap: 0.5rem;
+    }
+
+    /* footer design end */
+
+    /* executive committee design start */
+
+    .executive-member-container{
+        flex-wrap: wrap;
+    }
+
+    .executive-member-desc-container,
+    .executive-member-achievement{
+        width: 100%;
+    }
+
+    .executive-member-role{
+        width: 75%;
+    }
+    /* executive committee design end */
+    
+    /* contact page design start */    
+
+    .contact-page .personal-details-container{
+        flex-wrap: wrap;
+    }
+
+    .contact-page .personal-det{
+        width: 100%;
+    }
+
+    .contact-page .form-control {
+        padding: 0.375rem 0.75rem;
+    }
+
+    /* contact page design end */
+
+    .membership-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    
+}
+
+@media screen and (max-width: 768px) {
+    /* header design start */
+
+    .header-section1{
+        padding: 1.063rem 2rem;
+    }
+
+    .header-section2{
+        padding: 1.063rem 2rem;
+    }
+
+    /* header design end */
+
+    /* Description about us container design start */
+
+    .desc-us-container{ 
+         flex-wrap: wrap;
+         justify-content: center;
+    }
+
+    .desc-us-img-container{
+        order: 1;
+        margin-top: 2rem;
+    }
+
+    .desc-us-img-container {
+        width: 500px;
+    }
+
+    .desc-us-content-container{
+        width: 100%;
+    }
+    /* Description about us container design end */
+
+    /* owl carousel design start */
+        #owl-coming-events .owl-prev,
+        #owl-coming-events .owl-next,
+        #owl-banner  .owl-prev,
+        #owl-banner  .owl-next,
+        #owl-intiative .owl-next,
+        #owl-intiative .owl-prev,
+        #new-member-owl .owl-prev,
+        #new-member-owl .owl-next
+        {
+            top: unset;
+            transform: unset;
+            left: unset;
+            right: unset;
+            position: unset;
+        }
+        
+        #owl-coming-events .owl-nav,
+        #owl-banner .owl-nav,
+        #owl-intiative .owl-nav,
+        #new-member-owl  .owl-nav{
+            position: absolute;
+            bottom: 5px;
+            left: 50%;
+            transform: translateX(-50%);
+            top: unset;
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        #owl-coming-events .owl-nav button,
+        #owl-banner .owl-nav button,
+        #owl-brics .owl-nav button,
+        #owl-intiative .owl-nav button,
+        #new-member-owl .owl-nav button,
+        #owl-feedback .owl-nav button{
+            font-size: 22px !important;
+            width: 30px;
+            height: 30px;
+        }
+
+        #owl-banner .owl-nav button span, 
+        #owl-coming-events .owl-nav button span,
+        #owl-brics .owl-nav button,
+        #owl-intiative .owl-nav button,
+        #new-member-owl  .owl-nav button,
+        #owl-feedback  .owl-nav button{
+            line-height: 1;
+        }
+    /* owl carousel design end */
+
+    /* upcoming design start */
+
+    #owl-coming-events .owl-nav,
+    #owl-intiative .owl-nav,
+    #new-member-owl  .owl-nav{    
+        bottom: -35px;
+    }
+
+    /* upcoming design end */
+
+    /* brick design start */
+    .brics-container{
+        flex-wrap: wrap;
+    }
+
+    .brics-container{
+        justify-content: center;
+    }
+
+    .brics-content-container{
+        text-align: center;
+        width: 100%;
+    }
+
+    .brics-head-container {
+        min-width: unset;
+        width: 100%;
+        text-align: center;
+        padding: 1rem;
+    }
+    /* brick design end */
+
+    /* initiative design start */
+        #owl-intiative .owl-nav.disabled,
+        #new-member-owl  .owl-nav.disabled{
+            display: flex;
+        }
+
+        #owl-intiative,
+        #new-member-owl{
+            width: 100%;
+        }
+
+        .owl-intiative-card,
+        .owl-feedback-card{
+            gap: 1rem;
+            padding: 1rem;
+        }
+
+        .desc-us-content, .initiative-content-data{
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+    /* initiative design end */
+
+    .member-img-container,
+    .magazine-img-container{
+        order: 0;
+        margin-top: unset;
+        margin-bottom: 2rem;
+    }
+
+    .member-content-container,
+    .magazine-content-container{
+        order: 1;
+    }
+    
+    .magazine-img-container img{
+        position: unset;
+    }
+
+    /* industry affiliations design start */
+    .sponsor-container{
+        grid-template-columns: auto auto auto;
+    }
+    /* industry affiliations design end */
+
+    /* clients have to say design start */
+    .owl-feedback-card{
+        flex-wrap: wrap;
+    }
+    /* clients have to say design end */
+
+    /* footer design start */
+    .footer-about-us{
+        width: 100%;
+    }
+
+    .footer-main{
+        flex-wrap: wrap;
+    }
+
+    .footer-nav-container{
+        width: fit-content;
+    }
+
+    .footer-address-container{
+        width: 310px;
+    }
+
+    .footer-main{
+        row-gap: 2rem;
+    }
+
+    /* footer design end */
+
+    /* committees page design start */
+    .sub-committee-container{
+        flex-direction: column;
+        gap: 0px;
+        justify-content: center;
+    }
+    
+    .sub-committee-container .committee-nav-img-container{
+        width: 100%;
+    }
+
+    .committee-nav-img-container:hover,
+    .sub-committee-container:hover .committee-nav-img-container:not(:hover) {
+        width: 100%;
+        height: auto;
+        transform: scale(1);
+    }
+
+    .sub-committee-container .committee-nav-img-container:hover{
+        width: 100%;
+    }
+    /* committees page design end */
+    
+}
+
+@media screen and (max-width:576px) {
+     /* common design start */
+    .font-36-700{
+        font-size: 1.75rem !important;
+    }
+
+    .font-32-700,
+    .font-36-700,
+    .font-40-800{
+        font-size: 1.5rem !important;
+    }
+
+    .font-32-500,
+    .font-32-600{
+        font-size: 1.5rem !important;
+    }
+
+    .font-20-600{
+        font-size: 1rem !important;
+    }
+
+    .font-18{
+        font-size: 0.8rem !important;
+    }
+
+    .font-18-500{
+        font-size: 0.8rem !important;
+    }
+
+    .font-16,
+    .font-16-600,
+    .font-16-500{
+        font-size: 0.75rem !important;
+    }   
+
+    .font-15-600,
+    .font-15{
+        font-size: 0.8rem !important;
+    }
+
+    .font-14-600 {
+        font-size: 0.65rem !important;
+    }
+    
+    .font-12{
+        font-size: 0.625rem !important;
+    }
+
+    .common-btn-design{
+        padding: 0.75rem;
+    }
+
+    /* common design end */
+    .contact-details{
+        font-size: 12px !important;
+    }
+
+    .header1-contact{
+        justify-content: flex-end;
+    }
+
+    header .nav-link.nav-link-btn{
+        font-size: 0.65rem !important;
+    }
+
+    
+/* Description about us container design start */
+    .desc-us-img-container {
+        width: 310px;
+    }
+
+    .desc-us-content-btns{
+        flex-wrap: wrap;
+    }
+
+    .desc-us-content-container{
+        margin-left: 0;
+    }
+    
+    .desc-us-content{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    /* Description about us container design end */
+
+    /* industry affiliations design start */
+    .sponsor-container{
+        grid-template-columns: auto auto;
+    }
+    /* industry affiliations design end */
+
+    /* clients have to say design start */
+
+    .feedback-head-content-data{
+        width: 100%;
+    }
+    /* clients have to say design end */
+
+    /* footer design start */
+    .footer-main{
+        flex-direction: column;
+    }
+    /* footer design end */
+
+    /* executive committee design start */
+    .executive-member-image-container{
+        width: 200px;
+        height: 200px;
+    }
+
+    .executive-member-container{
+        padding-bottom: 0;
+    }
+    /* executive committee design end */
+
+    /* contact page design start */
+    .contact-page .contact-page-font-icons{
+        align-items: center;
+    }
+
+    .membership-container{
+        grid-template-columns: repeat(1, 1fr);
+        margin-right: auto ;
+        margin-left: auto;
+    }
+
+    .membership-container{
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:425px) {
+    /* header design start */
+    .header-section1{
+        padding: 1rem 1.25rem;
+        flex-wrap: wrap;
+    }
+
+    .header-section2{
+        padding: 1rem 1.25rem;
+    }
+
+    .login-social-links-container{
+        flex-wrap: nowrap;
+    }
+
+    .header-email-container{
+        order: 1;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    } 
+
+    .contact-link{
+        width: unset;
+        flex-grow: 1;
+    }
+
+    .login{
+        order:2;        
+    }
+
+    .header-social-media-container,
+    .header-phone{
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    .header-social-media-container{
+        margin-top: 0;
+    }
+    /* header design end */
+
+    /* header design start */
+
+    .footer-address-container{
+        width: 100%;
+    }
+    /* header design end */
+
+}
